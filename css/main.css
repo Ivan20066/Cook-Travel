@@ -62,11 +62,23 @@ body {
 }
 .hero__title-logo{
     font-family: Montserrat;
-font-style: normal;
-font-weight: bold;
-font-size: 80px;
-line-height: 98px;
-margin-top: 125px;    
+    font-style: normal;
+    font-weight: bold;
+    font-size: 80px;
+    line-height: 98px;
+    margin-top: -100px;    
+}
+.hero__title-logo-shadow {
+    content: ("");
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 80px;
+    line-height: 98px;
+   margin-top: 125px;
+    color: #FDD418;
+    margin-left: 3px;
+
 }
 .hero__text-master {
     font-family: Montserrat;
