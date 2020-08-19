@@ -58,7 +58,7 @@ body {
 .wrapper {
    width: 1200px;
    margin: auto;
-   background: url(/img/Rectangle\ 40.png) center no-repeat;
+   background: url(../img/Rectangle\ 40.png) center no-repeat;
 }
 .hero__title-logo{
     font-family: Montserrat;
