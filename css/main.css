@@ -260,6 +260,9 @@ table {
  .price {
      font-weight: bold;
  }
+ .klass__price {
+     margin-bottom: 20px;
+ }
  .klass__title {
     font-weight: 600;
     font-size: 16px;
