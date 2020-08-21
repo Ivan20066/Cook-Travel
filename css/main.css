@@ -247,11 +247,13 @@ table {
    }
  .report {
      width: 1200px;
+     height: 550px;
      background: #ffffff;
      display: flex;
  }
  .klass {
      width: 850px;
+     height: 400px;
      display: flex;
      flex-direction: column;
      justify-content: space-between;
@@ -270,4 +272,49 @@ table {
  }
  .here {
      color: #000;
+ }
+ .blog {
+     background:#ffffff;
+     display: flex;
+     justify-content:space-between;
+ }
+ .blog__title-photo {
+     display: flex;
+     justify-content: center;
+     margin-bottom: 70px;            
+     font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+ }
+ .blog__text {
+     padding-left: 30px;
+ }
+ .blog__text-title {
+     margin-top: 143px;
+     margin-bottom: 30px;
+     font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 140%;
+    color: #0B141D;
+ }
+ .blog__text-text {
+     margin-bottom: 40px;
+     font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 140%;
+ }
+ .link {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 140%;
+    color: #0B141D;
+
  }
