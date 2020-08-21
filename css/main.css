@@ -196,3 +196,52 @@ float: left;
 .schedule {
     margin-top: 64px;
 }
+table {
+    width: 1200px; /* Ширина таблицы */
+    border-collapse: collapse; /* Убираем двойные линии между ячейками */
+    border: 2px solid white;
+    /* Прячем рамку вокруг таблицы */
+   }
+   td {
+    padding: 3px; /* Поля вокруг содержимого таблицы */
+    /* Параметры рамки */
+    text-align: left; /* Выравнивание по левому краю */
+   }
+   th, td {
+    background:#ffffff;
+    padding: 37px;
+    font-family: Montserrat;
+
+   }
+   tr {
+    border: 1px solid #FDD418;
+   }
+   .wrapper__schedule {
+       width: 1200px;
+       margin: auto;
+   }
+   .country {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 140%;
+    color: #0B141D;
+   }
+   .city {
+    font-size: 16px;
+    line-height: 140%;   
+    color: #B4B4B4;    
+   }
+   .data {
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 140%;
+    color: #0B141D;
+   }
+   th {
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    color: #0B141D;
+
+   }
