@@ -200,15 +200,13 @@ float: left;
     margin-top: 64px;
 }
 table {
-    width: 1200px; /* Ширина таблицы */
-    border-collapse: collapse; /* Убираем двойные линии между ячейками */
-    border: 2px solid white;
-    /* Прячем рамку вокруг таблицы */
+    width: 1200px; 
+    border-collapse: collapse; 
+    border: 2px solid white;   
    }
    td {
-    padding: 3px; /* Поля вокруг содержимого таблицы */
-    /* Параметры рамки */
-    text-align: left; /* Выравнивание по левому краю */
+        padding: 3px;   
+        text-align: left; 
    }
    th, td {
     background:#ffffff;
@@ -246,5 +244,24 @@ table {
     font-size: 16px;
     line-height: 20px;
     color: #0B141D;
-
    }
+ .report {
+     width: 1200px;
+     background: #ffffff;
+     display: flex;
+ }
+ .klass {
+     width: 850px;
+     display: flex;
+     flex-direction: column;
+     justify-content: space-between;
+     
+ }  
+ .price {
+     font-weight: bold;
+ }
+ .klass__title {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 140%;
+ }
