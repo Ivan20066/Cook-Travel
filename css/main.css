@@ -343,7 +343,7 @@ table {
  .record {
      width: 1200px;
      height: 800px;
-     background: url(/img/Rectangle\ 58.png);
+     background: url(../img/Rectangle\ 58.png);
      display: flex;
      justify-content: flex-end;
      align-items: center;
