@@ -376,11 +376,12 @@ table {
     padding: 10px 100px;
     border-radius: 3px;
     font-family: Montserrat;
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 20px;
-letter-spacing: 5px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+     letter-spacing: 5px;
+     margin-top: 70px;
  }
  .none {
      border: none;
