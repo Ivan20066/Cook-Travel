@@ -372,8 +372,15 @@ table {
  }
  .bootn {
     color: #FDD418; 
-    border: solid 1px #FDD418;
-    padding: 10px 40px;
+    border: solid 2px #FDD418;
+    padding: 10px 100px;
+    border-radius: 3px;
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+letter-spacing: 5px;
  }
  .none {
      border: none;
