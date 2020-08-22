@@ -327,3 +327,18 @@ table {
  .alaska {
      margin-right: 40px;
  }
+ .blog__conteaner-paris {
+     width: 1140px;
+    
+     margin: auto;
+     display: flex;
+     display: flex;
+     justify-content:space-between;
+
+ }
+ .branch-paris {
+     margin-top:auto
+ }
+ .blog-paris {
+     padding-top: 150px;
+ }
