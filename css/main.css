@@ -277,6 +277,7 @@ table {
      background:#ffffff;
      display: flex;
      justify-content:space-between;
+     
  }
  .blog__title-photo {
      display: flex;
@@ -317,4 +318,12 @@ table {
     line-height: 140%;
     color: #0B141D;
 
+ }
+ .blog__conteaner {
+     margin-top: 120px;
+     display: flex;
+     justify-content:space-between;
+ }
+ .alaska {
+     margin-right: 40px;
  }
